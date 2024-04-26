@@ -1,5 +1,4 @@
 <h3 align="left">🛠 Language and tools</h3>
-###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="30" />
@@ -21,15 +20,3 @@
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
