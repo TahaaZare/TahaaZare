@@ -42,6 +42,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/tahaazare/count.svg?"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/tahaazare/tahaazare/output/snake.svg" alt="Snake animation" />
