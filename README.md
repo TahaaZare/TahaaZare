@@ -32,15 +32,14 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://www.youtube.com/@tahazre_dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/taha-zare-7533aa254/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/tahaazare/count.svg?"  />
