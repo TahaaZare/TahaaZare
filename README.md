@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">•Bachelor’s degree in professional computer engineering;<br>•Backend developer;<br>•Expert in MySQL, PHP, CSharp, Laravel, Asp.Net, HTML, CSS, & Bootstrap;<br>•Ability to design and implement API;<br>•Ability to fix bugs and optimize system performance, create optimal code to improve system performance and efficiency;</p>
+<p align="left">
+•Backend developer;
+•Expert in MySQL, PHP, CSharp, Laravel;
+•Ability to design and implement API;
+•Ability to fix bugs and optimize system performance, create optimal code to improve system performance and efficiency;
+</p>
 
 ###
 
