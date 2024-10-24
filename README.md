@@ -8,8 +8,11 @@
 
 <p align="left">
 •Backend developer;
+<br>
 •Expert in MySQL, PHP, CSharp, Laravel;
+<br>
 •Ability to design and implement API;
+<br>
 •Ability to fix bugs and optimize system performance, create optimal code to improve system performance and efficiency;
 </p>
 
