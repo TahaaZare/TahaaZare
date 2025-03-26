@@ -9,7 +9,7 @@
 <p align="left">
 •Backend developer;
 <br>
-•Expert in MySQL, PHP, CSharp, Laravel;
+•Expert in MySQL, PHP, CSharp, Laravel , Django;
 <br>
 •Ability to design and implement API;
 <br>
