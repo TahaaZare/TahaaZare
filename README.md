@@ -52,7 +52,7 @@
 ## 📫 Connect with Me
 
 <!-- Optional social links if you have them -->
-[LinkedIn](#) • [Telegram](#) • [Website](#)
+[Telegram](https://t.me/Zre_dev) • [Website](https://tahazare.ir)
 
 ---
 
