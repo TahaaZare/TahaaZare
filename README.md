@@ -9,7 +9,7 @@
 <p align="left">
 •Backend developer;
 <br>
-•Expert in MySQL, PHP, CSharp, Laravel , Django;
+•Expert in MySQL, PHP , PYTHON , Laravel , Django;
 <br>
 •Ability to design and implement API;
 <br>
@@ -33,7 +33,9 @@
 ###
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=flask" height="40" alt="flask logo" />
+  <img width="12"/>
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="12" />
