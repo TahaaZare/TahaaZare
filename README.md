@@ -40,20 +40,4 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahaaZare&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaaZare&layout=compact&theme=radical" height="150" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<!-- Optional social links if you have them -->
-[Telegram](https://t.me/Zre_dev) • [Website](https://tahazare.ir)
-
----
-
 ⭐️ From [@TahaaZare](https://github.com/TahaaZare)
