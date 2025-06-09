@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Taha Zare</h1>
-<p align="center">Backend Developer | Python & PHP Enthusiast | Laravel, Django & Flask Ninja ⚡</p>
+<p align="center">Backend Developer | Python & PHP Enthusiast | Laravel, Django & Flask ⚡</p>
 
 ---
 
